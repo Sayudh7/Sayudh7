@@ -54,9 +54,8 @@ I also build smaller applications to practice programming logic and explore new 
 
 I'm building toward becoming a strong software engineer, with a focus on backend systems, security, and AI. Most of what I know so far has come from hackathons, personal projects, and coursework rather than a single structured path.
 
-
 `Learn → Build → Break → Fix → Improve`
 
 📍 Bhaktapur, Nepal
 
-![snake gif](https://raw.githubusercontent.com/Sayudh7/Sayudh7/output/dist/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/Sayudh7/Sayudh7/output/github-contribution-grid-snake.svg)
