@@ -59,3 +59,13 @@ I'm building toward becoming a strong software engineer, with a focus on backend
 📍 Bhaktapur, Nepal
 
 ![snake gif](https://raw.githubusercontent.com/Sayudh7/Sayudh7/output/github-contribution-grid-snake.svg)
+
+
+💭 Favorite Quotes
+
+"Till the full stop comes, the sentence is not complete."
+— MS Dhoni
+
+Thanks for visiting my profile! 👋
+
+⭐ If you like my work, consider starring a repository or connecting with me.
